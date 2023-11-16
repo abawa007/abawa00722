@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Townsend",
+  "age": 33,
+  "address": {
+    "street": "Udarug Grove",
+    "city": "Wewcurjag",
+    "state": "MO",
+    "zip": "08252"
+  },
+  "contact": {
+    "phone": "(776) 234-5921",
+    "servicePhone": "800671923"
+  },
+  "birthday": "1971-06-25T18:17:29.382Z",
+  "ip": "181.146.18.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Wirve gurah uk dattac po ihipaztig do datozejar hervo jofhiz sokeka ezipibe olzu pegmad jas. Ciru va hom jikalli puzahew ipdi hoz co ka ukalaowi wo cuhlauzu jurruzhac ake rivfu wad. Nagiw toidiiwi juzo mas buejhov jez kimhuwahi riho finogga davkeg lo hog. Elra bac ubufi ogatizun deji ca goejenu ufpopi ramcaki ri reriduj gakil fofov tu hujdereb leni erme.",
+    "bio": "Mifda bug ogfe fev sevreh pa loja veme ci cuec gupdi cuc. Cucjofgi atamiho copvande ati havarni safcufu gitbe vilomkew baopno somrevi bosokol ojfas vefenoro jebada bafra. Wubepe nejpo jopubuzes pew dug fan muarzo jive buhubcu cojlec mode apahu mebosug."
+  },
+  "apiKey": "cdb59936adef7df2ded75fe4d0cb9b03105ff470349de6371c22d4d2dfd1a58e",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
