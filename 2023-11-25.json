@@ -1,0 +1,26 @@
+{
+  "name": "Trevor Weber",
+  "age": 56,
+  "address": {
+    "street": "Ovji Center",
+    "city": "Kulihci",
+    "state": "TX",
+    "zip": "33821"
+  },
+  "contact": {
+    "phone": "(910) 334-1765",
+    "servicePhone": "800355394"
+  },
+  "birthday": "1995-08-30T12:26:17.999Z",
+  "ip": "148.222.61.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Ac tehgamhu jofido hen dubigi guwton fekwe bilo ukairiori uv bacciros su of fujlu. Abhurrut gokci masukoju kupopi sevzeot wiz dop ega lape va morupow vo. Vicbamid gos jup gu kubgibvu hiwe se nincueg cih dejezvos kinwew ifikes fioki nutuko hewazwi hun kovigi.",
+    "bio": "Deewje mowoliovo zal elofi bec muowpu no jivritkag uswawuw ra dad ogucohat opeowzor. Bujipgiv wefo fac zan gor jutme fareove ju zog zelaluvo vivuur wubkazma ca kofehte huloj ovuwi. Zi we ke hufebum ba wab wecfin mubmocma iniunrul ciuno ni boet nipedhiz. Zeepi ga cuici wob cimun cuges umumawser pur fuseina duvfo cag islu kobol lujugev ag gegu. Ko laj duptib gavucwe zus jekecoc sal kar sapesi hemtuc kismumpej cisogsa zebibu newuliwe ben koufgaj luc obmavoh. Lo puiceza si ron ruh medsugfa kam naghoppuj cagu esco aro fier tat umilaef cih pojpan kacu. Sutni hihbic cod gij co co ocoric nomdu am ol zaet bikwova mu fulhac ekoido juk maz himejuk."
+  },
+  "apiKey": "083c39bbf915de1fc9f6e2589b00ac94ef03e61aaff9d324322a8d62d8edb0a3",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
