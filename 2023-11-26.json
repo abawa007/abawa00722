@@ -1,0 +1,26 @@
+{
+  "name": "Ian Barber",
+  "age": 65,
+  "address": {
+    "street": "Fawur Place",
+    "city": "Lanuko",
+    "state": "MT",
+    "zip": "23939"
+  },
+  "contact": {
+    "phone": "(523) 838-1353",
+    "servicePhone": "800165671"
+  },
+  "birthday": "1996-03-20T10:03:04.743Z",
+  "ip": "152.87.164.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Apunojo lorem pe orcacser febinu ozieceun consi ja biloplep apame duh fobip in ogogi sajpoha elo. Uju cok ava kicni ihbudod pih fobcu asuvimhu nonputi zufoj ba lo atwuuf sawage lippefi gos. Hegehan cirimhup letuwhe hebomnuf oga zuske uc ropekar junab lawas vug logjeze.",
+    "bio": "Zahegi codta lotlafzo fes bovtun mubhi jo ifvo gehtunof ebraj zile diwdab zisaz tol joivese eva. Tef esianop at kecom cav wujsuori sihfag bag dujfucce tufvelrup fu keztew si zor irobe lewzu nov buleb. Pefap lewam pa puhzoke tanerip wavap lu raco how lugu roc wi iblibma zurif duga ahipo zufug. Cilgelep abidadjo ce ijo fo han hebuhap ifeh morhim nocsunte kurik sigubo vi ek id. Lunpecozo ufu kew gah civdere nu usino mo nupkegoc me hiducor muwasdu acpuwuh dus ket. Hohcilot seirgo usiwi amije uhuiho umkimu ekrewu gomo ba bo ven be delu jofhafol. Papigjo satpiv nenim toniked ge ta guw ugsahpe nanojuin gez pi zu vekbaehu juic."
+  },
+  "apiKey": "3fc9bad53b7cf167b55c9e70b7240e20ad5eceac3115028be663c372c47c87aa",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
