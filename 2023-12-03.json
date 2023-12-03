@@ -1,0 +1,26 @@
+{
+  "name": "Emily Castillo",
+  "age": 46,
+  "address": {
+    "street": "Bosi Boulevard",
+    "city": "Uvafava",
+    "state": "UT",
+    "zip": "91004"
+  },
+  "contact": {
+    "phone": "(759) 382-1086",
+    "servicePhone": "800557127"
+  },
+  "birthday": "1991-12-26T22:07:27.541Z",
+  "ip": "121.156.73.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Bo arudu fi de cusih comis acumivu agrik wa omuvanje wigagidu oplahlan. Tidso jed pohki medij pe cup loralna am so bafag siweltu vopgefbek ru ejawe. Zidi enuwi juukes obo her fizof ilikipvoj nusije nufat gi kicauw nuseh opubavlaz mocope halokati fepitur ovlilwe pigagsor. Weludtup tadulga vafdabmaw gohpipa ekdaz unuugvos godhit ciddode si gifjaw laet biduvva gamappa apcahsu aduk za.",
+    "bio": "Lumul usjebawi zin hugseb wukebudu mi gulapvaf obdum ifi usjo aduirefa do zihito mo. Dej lu tupfe ara fic losze fuj disehlag sin wuvited anowu meme kejlif. Fem ovepiw duvlam gokijru ma akmamup rufgu izhe tosej ofame tuwne jov ob raorso jofkul."
+  },
+  "apiKey": "17d6fc90ae87d0d047f67e0b98627605bb6005a66b36d41ea13140402c673d07",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
