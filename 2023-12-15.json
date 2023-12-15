@@ -1,0 +1,26 @@
+{
+  "name": "Bertha Newton",
+  "age": 29,
+  "address": {
+    "street": "Rarar Trail",
+    "city": "Jodpegjup",
+    "state": "MI",
+    "zip": "06311"
+  },
+  "contact": {
+    "phone": "(940) 350-3332",
+    "servicePhone": "800364593"
+  },
+  "birthday": "2000-02-08T18:06:12.404Z",
+  "ip": "252.20.4.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Dulav nihih lam ci zugoc ufho dehon suf vipas ok hafoc so avien nijis rane doahmu. Nilwen carumo irupere uffid hu watkeb kihjafec ifuvowem wal egsisif laz mukkomu wed narso fuono pabud laisi. Ufiv muh govsij ligtaafu jemu rop rekupatub kese gafni jiludeg vih ow uzifa fopce.",
+    "bio": "Ti kikaepu ewoif da mave siworpa vi cetobo ubbut hew wazkonew gi mijruva ho zu. No umurvas guswiwej ih ogjeriw pikirakap neiho bo ene mis dobsotete ro la na gizom lavos bepcechuf ceni. Gof febucgup jed jas fu egi ni tubsomezu ik cisaiwo pub ovtara ohubo wovogele gimi."
+  },
+  "apiKey": "707bb394eeda47f9c2aff833e06c44ab600520a52e9cee72de71bfa3d85b60c2",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
