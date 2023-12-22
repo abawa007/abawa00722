@@ -1,0 +1,26 @@
+{
+  "name": "Dollie Cohen",
+  "age": 25,
+  "address": {
+    "street": "Gaggi Loop",
+    "city": "Modadmeg",
+    "state": "NY",
+    "zip": "07566"
+  },
+  "contact": {
+    "phone": "(344) 602-8232",
+    "servicePhone": "800245263"
+  },
+  "birthday": "2005-01-19T10:25:42.664Z",
+  "ip": "50.253.55.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Dijjehed zodso febrirvod tazu suthupzen zomve ej timak mekel cied sa nasu. Iwrirca no nagnuno rebez tejobos fugikato kufu tojeh huzhedmi etufo ewemij wuh vojdiki wi. Letfes abiir un raguvo apugoweb ecdi owiumco va jimvicov dudaw signi keagzo. Cedek canzi eca asninit luikvaw coca zom ufbac kufco sersoci pijhe ta.",
+    "bio": "Saklunroj wa etuluno vakosalen hovul detemifi dimooto gilendi lukuzib damjueg odpe arovuga keregiwet ukauzef bezozuw weki avefu. Pebvo dif wolarmu reh zaob ojiori pehih tuiw izonuife le sedze ukuraad. Tul lurutiz adreew zesu gido upsac uklafhug tok fo oku sepveb fucfebmo."
+  },
+  "apiKey": "95228a6a7e693e4179fc11e9a40113b31be0e8cde28ab6d067142da94cfd2711",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
