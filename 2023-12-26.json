@@ -1,0 +1,26 @@
+{
+  "name": "Fred Edwards",
+  "age": 65,
+  "address": {
+    "street": "Gogiv Road",
+    "city": "Wemekneh",
+    "state": "LA",
+    "zip": "10042"
+  },
+  "contact": {
+    "phone": "(582) 210-4646",
+    "servicePhone": "800542565"
+  },
+  "birthday": "1964-01-16T07:45:57.791Z",
+  "ip": "61.59.56.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Eha mozek namikica jokus apowosuk gadidok nukcasod giedgud apuedrip lo ekkorno tum ara es gokhi. Tigjoc ifuevuehi cojcal sazug pi everi gedne lidhe ud ciwwin wa petuc. Luto zomzama sepwu un civetho laflir ivwiwug huzi cej hukosgo iki ajdersi kifpo cabupbah siabizet. Mejbi te cimecli odibiha ni me lik gacluno saul edfidav unmottel ti ba itebejufu cabnar. Nehah vomep tan jurko rofefoh cag ruw busuwo vig no zeena nevhanlim luzjadit. Wog ma zanez odgo vocep ru berpakob ritwod irzavup wi ke tudigec olkus cuome ki afawi.",
+    "bio": "Fe mesuwo ramsah seoh roju anmufiz mibbut tistab wuzomu din dubeconeh raman rec satilih olmoskeb patdomku komor kor. Ovobihjav momhiwe zeha ze ejiw balu bu lipzedda amo cimofav kuruiri budo hihizlel afa tarvo. Junzol ra ib tiwves bomi la hu rem adidiw okewen zegme iduzo gavpon wehcopza wigi agpiz retotlot do."
+  },
+  "apiKey": "f627361e5ff58094eba99ab30aa2b830117f604be88cd1e1946578cd4aa905c3",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
