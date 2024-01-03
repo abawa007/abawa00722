@@ -1,0 +1,26 @@
+{
+  "name": "Derek Frank",
+  "age": 37,
+  "address": {
+    "street": "Wurcip Park",
+    "city": "Odogukol",
+    "state": "WY",
+    "zip": "07424"
+  },
+  "contact": {
+    "phone": "(762) 352-2024",
+    "servicePhone": "800299811"
+  },
+  "birthday": "1979-11-11T19:42:01.387Z",
+  "ip": "251.152.220.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Pipfe canjon duf re legod wiim ku ibwaci pehof ma mo geegweh saaczek cangiom besjopag feal lenwizoz. Ha ni lu zedok gior coh dawpupag ackuw juh et cuhru cu ewiami. Ose muf fehil epi vahnuk ep ris vodivozo meransa nil ijediwna buajare ozu. Afuobpa sip gemsicmel rav mep rurig buv cicahhin acgaresi fivog inowesof lijim apvoj nep kelhe. Cuw zo ku denurauh gecdi nifpof mahcu miccifu bu cumfa hu vatis vaarahon tarane gelavaj izib ojet hujvamku.",
+    "bio": "Elgefaw lejudo lam ginobon godfa guwepigob rep cuganauw kipobo one zedpojvic vo. Kiwpenva cag vahikuh mihi wecatdim aki picutba irigji jooro numici dievhud fefe. Damhulhus hog cisusba zovhi tij kezga rezden wouce jo acofa mo uhoune."
+  },
+  "apiKey": "ed946345a6d5ca0073f83a66c071a963c5ad13f78da10f2586e67438e74db43c",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
