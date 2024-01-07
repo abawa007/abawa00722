@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Parks",
+  "age": 27,
+  "address": {
+    "street": "Male Heights",
+    "city": "Wusezomaj",
+    "state": "MI",
+    "zip": "73866"
+  },
+  "contact": {
+    "phone": "(914) 431-4326",
+    "servicePhone": "800462483"
+  },
+  "birthday": "1965-08-04T22:50:09.722Z",
+  "ip": "94.115.123.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Pi ranihjaj um fabaviz jegve une ot fe wilhirati lojcug ga pud. Fane gaumfed tukzop gubzud aro ofafa gigona riwuc guegihe netku fipzoke haabuwuz. Bajefdu mesuga retgaova guw jejehsu zoedouro hauci waj biv inewezab veju wu. Lihcuvuh vajgev foul abasinva buher tavfed epad uli to ci tozo damrid jekre sapraw gefisna. Nug noc ran uco vik nof ceze hisami jirusfum egioh ur zadojfe bu ginrol. Joktedaw azo kaf ahsobge tev no zop mo fu filve doepsa ak pobpulug wamvo le ifosi.",
+    "bio": "Tidhavdus apuda vordawja ufvop opewojra rujbi kusucfo itelja pizuntij pohvipir gu dimpe nuzif ireve vicozfeh. Puvoko bu vasi lisujna zojmawez banlokwe objo nahsoez metifma he ucwi sajkuvwo ebegi javevham toema kewehedel zav tetsawun. Ih vebepcem ebawojo jud kalpupuwe hahkemom nordumgaw fiuvi ag ehegersi suj vu zo puk hadaz ucjanu tonges."
+  },
+  "apiKey": "4ec6dde3f20f6eb091013dc9b48d1a2ff54b08107d5e89cc088f50af692a2a35",
+  "currency": {
+    "code": "STD",
+    "name": "São Tomé and Príncipe Dobra"
+  }
+}
