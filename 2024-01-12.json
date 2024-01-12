@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Castro",
+  "age": 58,
+  "address": {
+    "street": "Luwmir Highway",
+    "city": "Vivowoele",
+    "state": "VT",
+    "zip": "91351"
+  },
+  "contact": {
+    "phone": "(706) 791-8839",
+    "servicePhone": "800126882"
+  },
+  "birthday": "1992-08-10T10:55:42.195Z",
+  "ip": "198.132.95.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Odige zeb sar jeh oc wo kuv jul fajior obaowi ba buhja wo. Naeghod len huj femca isca livpif sibemje wormu la cu salun udelesa estujvig neshudi wemol wecbul diloeju. Ozohu zipezi ehmafwu centaruv netane kur ulagefej zined je uwa kadror ojgowof fude na af suphuab. Buoru poh athof jeme kacmip di cajim rudpewton huhibsa zega fiolelo mep arhiar bah.",
+    "bio": "Avda amame da taba juk inafip aradedira anjodav vittezan nelgec egrasba isgepzo za hantati neh ca hoz. Desdekva epu nil podutcun agoubruh agveb mesti niddouc bu wu pu fat poverot. Pej lejo carec gu ovo bo ijet roh buf ka fukev kuvdofo husugva vokusvo ofewufe jifede. Sitos guk ocjowit veso bekolwu gitmi litol vulsovan puwum he nor hioma zoegi jeik majcaw en nitralri kapib. Focwep rabenid sunevam ofahujig teg jucce waj kifa kel to sicfi dojawif. Cobevcoj uhvidi bol afjaj lekevbe mercum av cutiz ra hi be eza."
+  },
+  "apiKey": "f5ffa057abf57a27bdf60e0478382b20d6b293f35b8498e03cc4a49922a1c36c",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
