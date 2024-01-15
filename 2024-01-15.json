@@ -1,0 +1,26 @@
+{
+  "name": "Victoria Ellis",
+  "age": 42,
+  "address": {
+    "street": "Niben Drive",
+    "city": "Minjogal",
+    "state": "FL",
+    "zip": "92208"
+  },
+  "contact": {
+    "phone": "(383) 213-6412",
+    "servicePhone": "800524241"
+  },
+  "birthday": "1962-06-03T05:40:49.868Z",
+  "ip": "238.0.134.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Wo tud majul ulojuz peruc ricas sutonuabo kujar lahzu gigira necrubcoz zaura mogaw fuanedol. Ba ovru vevme bapehme suguse nicvi ce ba gij dirudukib tiwnuf ca ijne. Odi fu ij af vinkeene gug vi cosu du ha ovame veopegak il galumsih liigze falfep zib ezahela. Ahodiov suf fatlu vun pelura juvihi cifibzor hotopi uhpatbo mat epujereb opubul wimmetaj ekelazmo fosaewe tupgis.",
+    "bio": "Jazuce lur emonu tiwagcaf dargezim otwesna ekcules zirguwgu zivaju fu kamu lurse. Saf de donga te nam iwkiz osalobluv tag tenhi etuan ruwek ruwnuoz gus cid zi. Aba ji egduf etiuzipu uhfihi upieniaf zuk wiekejav po pap pansulot kalef me puw."
+  },
+  "apiKey": "906a45dbf215499b4ee257cd802ecd4314fa11eac9a978a142f2c2fb7c4d9705",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
