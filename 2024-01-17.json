@@ -1,0 +1,26 @@
+{
+  "name": "Vincent McKinney",
+  "age": 22,
+  "address": {
+    "street": "Hoeki Path",
+    "city": "Sapsugam",
+    "state": "ME",
+    "zip": "98834"
+  },
+  "contact": {
+    "phone": "(879) 478-2403",
+    "servicePhone": "800475956"
+  },
+  "birthday": "2000-01-19T13:51:01.234Z",
+  "ip": "42.190.101.84",
+  "foo": "bar",
+  "profile": {
+    "about": "Rup sebkuzfi ralno ocnijnoc tuzog fezwe nimil mecji gasdaz tabcom gejofre toowo pic hatuek ulfalrus dimegug. Seg kido nate tulepat lej vegfidil kipfasve wojoc om zuffe lu fam fokohton je wow lengid. Turunda fe tuwhat wi leh naawu usfah hijuv ho urvo jolwuh bardaj bekpu turaguap kadbe mecpuzca. Woj hamih lomuuno wek wiv asi lu oj ba junigi ci acvovod. Gael ipo duz etji ha sano or bowdu samhogmo casfugdo luinaru upzioj.",
+    "bio": "Ri noslicnah fib di sajfocej afeave hoho imeuhu ve atenoufu ri oddeh owize mepad ja ep faz. Jobnan fij cetpivna wuuwisok nijafa pilmev roekulob engoj ciwle terulda ras da sanlijozu tacpag hokunfa. Mu cilkuzu fu izo ico munez upapbe wecvowo okti pecaborag menin sar nadi mic. Ambe ve nid facap now pozomekac tov pevate gav kubefef puc cufahi zit mabudzog hi ute fe. Sa ni tu mil amuwug puruvgih mejugag mak wa wahilu fu hutoraz ga omomva niocuwib. Odearlo nargo bafvevuh ti go fisah sejzuboh kam tumupul zab bod kemvaor rurgokfep tid."
+  },
+  "apiKey": "4c9f2aaa48df0a2b940c7cde1a08a10f6ee255bf97a08314645dd2a077bf994c",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
