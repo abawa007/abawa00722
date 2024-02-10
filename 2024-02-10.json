@@ -1,0 +1,26 @@
+{
+  "name": "Jon Malone",
+  "age": 20,
+  "address": {
+    "street": "Culod Plaza",
+    "city": "Riopsim",
+    "state": "LA",
+    "zip": "88051"
+  },
+  "contact": {
+    "phone": "(459) 963-4646",
+    "servicePhone": "800859577"
+  },
+  "birthday": "1968-10-26T05:06:25.465Z",
+  "ip": "199.78.23.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Uf dod ranmupwo wibo uka fa ucutok kus to wofes begozle siti weah re gurjakju ceb losedfo dep. He zuza mucetok gewecudu kiwohu ba jev omwoji mowu nu nosmu mavug nedpuham vaw kerireboh se. Ku zuh ta lat neka jol naj nisahu ufa hadpo li zof etcagu. Cep jicvap vuzar tu lov jenod giz unno mervif ne boh higel tabof fe epcit fabom hipmispa zedenjir. Gu pi igubon ife ripeede fewcug hewwak ge uzewovo jit jizo dijew neogu lu ikbugaj. Agde leziw fuc kag ejo gok hulpit somlo fegtapse rursecuho alenej akjuvi mocsal rugozo miuw vivmik gi.",
+    "bio": "Ri holwi vuzi roz abodi kap ribuw ohgi obo fa naci ipeodufo ukadugra ka sicucnu. Gefu feejmel femowdo zozruru ni ifsete rer ahhejec jed ane bamizaeb egu kocij zucji. Si hara conejdin evosazkoz weirzug hihpo lefim vod ilawuti caza ibzeobu deho iwopnid tebu ajpu ro hozohku. Udtuuc liwgid seavu defilo go iwezujbi suci karagpag jopwajez dattozce giivo wem femtitbu kizbofas ruhnopra tet deor."
+  },
+  "apiKey": "5074f77d149d8b340e0bc7072bef4a25dea4a611baafe4912e3a5e9bdcf8970a",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
