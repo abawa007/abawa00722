@@ -1,0 +1,26 @@
+{
+  "name": "Carl Garza",
+  "age": 18,
+  "address": {
+    "street": "Pisi Mill",
+    "city": "Mijreku",
+    "state": "RI",
+    "zip": "88308"
+  },
+  "contact": {
+    "phone": "(579) 502-1859",
+    "servicePhone": "800539643"
+  },
+  "birthday": "1993-12-01T11:59:40.763Z",
+  "ip": "46.57.11.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Ucevagje bevu efu gak dadsiwwe ebdacuvu jem ub hewbu zadkaza jugice wumsozjav kidvabic inpo lap muh. Ose ca veznajnu vifvulev cefiaw zoh anijopfe sur kiv nedokpic kivnulawu ebi votohut met rahi vebavetuf kuk bolsopjec. Fufabfa fopzo rawrabra patuljig rikunjin lubaphud kis oswuz giton iffi za humsona nehe nul.",
+    "bio": "Ro wov anuditsa jol pid seduv tabdehdiz citbo vehetjo azsa nafse lac ba uni. Feso sojof ahoejco demcuhwo ucuuglil vuc opan ceesifu caj eba geduwzi lun bocod iz di. Tisinrir ogama na nisolwoh urheba wief wojrapvu ublif mon hebagro riduwir goihlas dooj jiwbizpik so evifo pukor."
+  },
+  "apiKey": "b92422689dfb5b980931fc3af37327bbc4798dc2ab69f1b67dc4f526e8db3e13",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
