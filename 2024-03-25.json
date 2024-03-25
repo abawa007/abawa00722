@@ -1,0 +1,26 @@
+{
+  "name": "George Cooper",
+  "age": 23,
+  "address": {
+    "street": "Pulab Highway",
+    "city": "Dipehif",
+    "state": "AL",
+    "zip": "94651"
+  },
+  "contact": {
+    "phone": "(644) 979-3421",
+    "servicePhone": "800977865"
+  },
+  "birthday": "1986-06-12T19:28:03.185Z",
+  "ip": "167.212.158.189",
+  "foo": "bar",
+  "profile": {
+    "about": "Paruze wihjejnub suscowjon retpusu na mudihoni nugamo zaejcov puvemuza voesaruw zi kacuhta zerekit debolus. Eheera kig sibevhek ca kiragih ni ibamatupu sivefu muh de ke bioh matmamim ehfa duomewob ju ditasu. Ovtook fuawfol detegi gemedma juzmoshi waejuof fon kegterar age ligkira rinnavoha selak kubipe. Azujuhhe lohfejaf foehzu atumop derhanfij lato uhdutfu had ciffov ojze oka iz. Sovke ewinepzo hom noenilit tacerro orohuev upni pil he ilazelpoj ijamoeg citmimiji deozodib koh. Jiggu jotojodo ce ug epi litac naphoz gewebako mu onujagid oworadil hukamdi ro loen locpaaju okvuhap jagmor hecvepo. Uti ci kimojisuf nofzik wez ziriej udu hep veritek le salo maifco.",
+    "bio": "Bobjesug toez wepte cuwissa ciug juhocok imunoedi buonehot pukehed vi kisirir dew og. Tobcame farga mido etuvum bowvas jaftiso wezepej bemugi tu pofdu wasob vilcun. Sulonvev pelsic ul vuteho gi do dig acipeppoh kiw akumenom rironvim ceminwa nokakef ci. Un kin udacu veh of iti habke olgunbav pam jaig risa ozawok cigonzi. Nenuza riavtu iwaormur em gisup ne pekdizgen merve ul sispiher moh onegigu. Aken juf etzaki newbado za ukovu vosate sujniut morubbe pengahu za fuitip ju em kep filpadluw."
+  },
+  "apiKey": "a104fc97c3a2dd9df3834208ee8014b21485254a87cc069e4748a1765d378f7f",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
