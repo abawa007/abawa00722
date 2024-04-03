@@ -1,0 +1,26 @@
+{
+  "name": "Francis Bowen",
+  "age": 28,
+  "address": {
+    "street": "Higkar Ridge",
+    "city": "Socgiraf",
+    "state": "AR",
+    "zip": "77037"
+  },
+  "contact": {
+    "phone": "(754) 466-7883",
+    "servicePhone": "800913715"
+  },
+  "birthday": "1981-03-02T19:03:46.793Z",
+  "ip": "150.6.255.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Pufi etevep ki wu gog kiv jajuwit urepi razin je jeg nuuv kijjozap gihfizmel pa zokwup so. Ol veznuv tejzunaz si kuh evjaide onowega dub emsacte uf moj acibolla. Magari bobvivud ewetakeki sitaghep tupa mubim lehot fibi gowecaak vu mej he tami cuzhodbol jam.",
+    "bio": "Riw ohdon ged egetiwe unazi horcaed sipoda kobitsej za pen uhaceofa ruzpipsu ite domsu rinigvuv kemuf tuurtab. Wusuvlip garezoze imavefote redru omkok if rocih gep mip seikuiki sebti momsat safnozboh sodne sihomon ovo. Buwieni wig kumew wemvahgu go ecpog dewiku obrijdak elueci ekegouz pem okgeb sihwignof od."
+  },
+  "apiKey": "3e8a5f69929dc38f564c58694507b5a68999211c1080df2f2a1dd4d5b710f18e",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
